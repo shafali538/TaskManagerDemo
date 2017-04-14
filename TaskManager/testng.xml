@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="First Suite" verbose="2" >
+
+<test name="First test" >
+
+  <classes>
+    <class name="com.shafali.Tests.UnitTests"/>
+    <class name="com.shafali.Tests.UnitTests2"/>
+  </classes>
+  </test>
+
+</suite>

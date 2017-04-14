@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [First Suite]">
+  <test name="First test(failed)">
+    <classes>
+      <class name="com.shafali.Tests.UnitTests2">
+        <methods>
+          <include name="demotest3"/>
+        </methods>
+      </class> <!-- com.shafali.Tests.UnitTests2 -->
+    </classes>
+  </test> <!-- First test(failed) -->
+</suite> <!-- Failed suite [First Suite] -->
